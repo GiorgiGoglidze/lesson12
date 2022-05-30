@@ -1,0 +1,18 @@
+body{
+    background-color: hsl(209, 71%, 51%);
+}
+.h2_2{
+    background-color: aqua;
+    color: rgb(72, 0, 255);
+padding-left: 20;
+}
+.name_1{
+    background-color: rgb(255, 255, 255);
+    color: rgb(19, 20, 20);
+    padding-left: 20;
+    background-color: rgb(68, 0, 255);
+}
+.language{
+    color: rgb(8, 8, 8);
+  
+}
